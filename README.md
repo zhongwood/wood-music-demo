@@ -6,8 +6,4 @@
 
 [music-app](http://zhongwood.likesyou.org/music-app/)
 
-# my-reader
-
-> A Vue.js project
-
 
