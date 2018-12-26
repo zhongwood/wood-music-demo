@@ -16,6 +16,7 @@
 
 ```HTML
 <meta name="viewport" content="width=device-width,initial-scale=1.0.maxmum-scale=1.0,minmum-scale=1.0,user-scalable=no">
+```
 
 ### 2.初始化字体大小
 
@@ -26,3 +27,4 @@ document.addEventListener('DOMContentLoaded',() => {
   fontSize = fontSize > 50 ? 50 : fontSize;
   html.style.fontSize = fontSize + "px"
 })
+```
